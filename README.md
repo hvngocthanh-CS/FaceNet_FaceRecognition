@@ -1,7 +1,10 @@
 ### MTCNN:
-detect face
+detect faces
 ### FaceNet:
-face features extract
+faces features extract
 ### SVM:
 classify faces
+### Dataset
+Using for training: ./dataset/interact_person 
+
 
